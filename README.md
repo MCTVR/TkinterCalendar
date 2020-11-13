@@ -7,6 +7,6 @@ MCTVR Calendar V1.1 updates:
 
 -Reduced APP size
 
--Compact desgin
+-New UI with compact desgin
 
 -macOS Big Sur icon update

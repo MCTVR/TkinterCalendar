@@ -1,7 +1,7 @@
 # TkinterCalendar
 Very Easy GUI calendar written in python using tkinter.
 
-MCTVR Calendar V1.1
+MCTVR Calendar V1.1 updates:
 
 -Fixed bugs
 

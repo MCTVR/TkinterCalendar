@@ -1,12 +1,25 @@
 # TkinterCalendar
 Very Easy GUI calendar written in python using tkinter.
 
-MCTVR Calendar V1.1 updates:
+# Features:
 
--Fixed bugs
+-For macOS
 
--Reduced APP size
+-Completed written in Python with Tkinter
 
--New UI with compact desgin
+-Lightweight
 
--macOS Big Sur icon update
+-Easy UI
+
+-Open Source
+
+
+# MCTVR Calendar V1.1 Update:
+
+-Fixed Bugs
+
+-macOS Big Sur Ready
+
+-UI with a New Compact Design
+
+-Reduced APP Size
